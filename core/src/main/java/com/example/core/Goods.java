@@ -42,6 +42,6 @@ public class Goods {
         Goods g2 = new Goods(1L,"哈是是是哈",new BigDecimal(10000));
 
         Boolean b = g1.equals(g2);
-        System.out.println("b========"+b);
+        System.out.println("b===sddfsdf"+b);
     }
 }
